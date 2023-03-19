@@ -3,5 +3,6 @@ Personal Homepage
 
 Pages
 -----
-- Introduction
-- My Sites
+- About
+- My Websites
+- Resources
