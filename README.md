@@ -5,6 +5,6 @@ Personal Homepage by Minjun Nah (6d-pointers)
 Pages
 -----
 - About
-- My Websites
 - My Projects
+  - My Websites
 - Resources
